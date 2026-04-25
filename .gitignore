@@ -1,1 +1,32 @@
+# OMX
 .omx/
+
+# Local Codex artifacts
+.codex
+
+# Dart / Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+coverage/
+
+# Flutter generated/plugin files
+.flutter-plugins
+.flutter-plugins-dependencies
+.generated/
+
+# Project metadata
+.metadata
+*.iml
+
+# Android local config
+android/local.properties
+
+# IDE files
+.idea/
+.vscode/
+
+# macOS / Windows cruft
+.DS_Store
+Thumbs.db
